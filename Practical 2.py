@@ -1,4 +1,4 @@
-# Aim: Write a program to create a Series object with 6 random integers and having indexes as : ["p", "q", "r", "n", "t", "v"].
+# Objectives: Write a program to create a Series object with 6 random integers and having indexes as : ["p", "q", "r", "n", "t", "v"].
 
 # Software Needed: Windows 10, Python 3.12
 

@@ -1,4 +1,4 @@
-# Aim: Given a Series that stores the area of some states in km^2. Write code to find out the biggest and smallest three 
+# Objectives: Given a Series that stores the area of some states in km^2. Write code to find out the biggest and smallest three 
 #      area from the given Series. Given Series has been created like this :
 
 # Ser1 = pd.Series([34567, 890, 450, 67892, 34677, 78902, 256711, 678291, 637632, 25723, 2367, 11789, 345, 256517])

@@ -1,4 +1,4 @@
-# Aim: Write a program to create a data series and then change the indexes of the Series object in any random order.
+# Objectives: Write a program to create a data series and then change the indexes of the Series object in any random order.
 
 # Software Needed: Windows 10, Python 3.12
 

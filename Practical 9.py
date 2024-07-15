@@ -1,4 +1,4 @@
-# Aim: Four dictionaries store the details of four employees-of-the-month as (empno, name). Write a program to create
+# Objectives: Four dictionaries store the details of four employees-of-the-month as (empno, name). Write a program to create
 #      a dataframe from these.
 
 # Software Needed: Windows 10, Python 3.12

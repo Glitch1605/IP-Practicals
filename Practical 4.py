@@ -1,4 +1,4 @@
-# Aim: Write a program to sort the values of a Series object s1 in descending order of its indexes and store it into
+# Objectives: Write a program to sort the values of a Series object s1 in descending order of its indexes and store it into
 #      series object s3.
 
 # Software Needed: Windows 10, Python 3.12

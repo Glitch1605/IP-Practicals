@@ -1,4 +1,4 @@
-# Aim: Given a DataFrame df:
+# Objectives: Given a DataFrame df:
 
 #         Age     Name     Weight
 #      0  15      Arnav    42

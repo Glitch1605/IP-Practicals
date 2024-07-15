@@ -1,4 +1,4 @@
-# Aim: A list stores three dictionaries each storing details, (old price, new price, change). Write a program to create
+# Objectives: A list stores three dictionaries each storing details, (old price, new price, change). Write a program to create
 #      a dataframe from it
 
 # Software Needed: Windows 10, Python 3.12

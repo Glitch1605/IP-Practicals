@@ -1,4 +1,4 @@
-# Aim: Given a Series object s4. Write a program to change the values at its 2nd row (index 1) and 3rd row to 8000.
+# Objectives: Given a Series object s4. Write a program to change the values at its 2nd row (index 1) and 3rd row to 8000.
 
 # Software Needed: Windows 10, Python 3.12
 

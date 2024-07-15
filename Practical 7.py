@@ -1,4 +1,4 @@
-# Aim: Create a following DataFrame Sales containing year wise sales figures for five salespersons in INR. Use the years
+# Objectives: Create a following DataFrame Sales containing year wise sales figures for five salespersons in INR. Use the years
 #      as column labels, and salesperson names as row labels.
 
 #                2014     2015     2016     2017
